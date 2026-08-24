@@ -44,3 +44,11 @@ Esta sección solo existe en la rama desarrollo.
 
 Este cambio vive solamente en feature/readme-mejora.
 
+
+
+\## Feature: documentación mejorada
+
+
+
+Esta sección fue creada en una rama independiente.
+
