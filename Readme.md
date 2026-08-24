@@ -2,5 +2,8 @@
 
 
 
-Mi primer repositorio usando Git.
-Aprendiendo control de versiones!!!!
+Mi primer repositorio usando Git. \n
+Aprendiendo control de versiones!!!! \n
+
+Powered by Ricky 
+
