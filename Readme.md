@@ -10,5 +10,21 @@ Powered by Ricky
 
 \##Aprendizaje
 
-Este repositorio es mi práctica de Git y Github
+Este repositorio es mi práctica de Git y GitHub
+
+
+
+
+
+\## Comandos aprendidos
+
+
+
+\- git init
+
+\- git add
+
+\- git commit
+
+\- git push
 
